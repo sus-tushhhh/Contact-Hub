@@ -1,3 +1,5 @@
+_Frontend in development_
+
 # 📞 Contact Hub
 
 A Contacts Management Backend built with **Node.js**, **Express.js**, **MongoDB**, and **JWT Authentication**. This allows users to register, log in, and securely manage their contacts through protected endpoints.
